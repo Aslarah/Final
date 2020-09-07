@@ -1,0 +1,126 @@
+.l1{
+font-family: 'Rockwell Extra bold';
+font-size: 60px;
+font-weight: bold;}
+.b1{
+   position: absolute;
+   width: 600px;
+   height: 150px;
+   top: 28%;
+   left: 28%;
+   border-radius: 30px;
+   background-color: #AE94FF;
+   font-family: 'Stencil';
+   font-size: 40px;
+   transition-duration: 0.4s;
+   cursor: pointer;}
+.b1:hover {
+  background-color: #95D9F5;
+  color: white;}
+.b2{
+   position: absolute;
+   width: 600px;
+   height: 150px;
+   top: 53%;
+   left: 28%;
+   border-radius: 30px;
+   background-color: #AE94FF;
+   font-family: 'Stencil';
+   font-size: 40px;
+   transition-duration: 0.4s;
+   cursor: pointer;}
+.b2:hover {
+  background-color: #95D9F5;
+  color: white;}
+.l2{
+   font-family: 'Cooper Black', cursive;
+   font-size: 30px;}
+.t1{
+background-image: url(Di1.jpg);
+font-family: 'Rockwell Extra bold';
+font-size: 65px;
+font-weight: bold;}
+.b3{
+   position: absolute;
+   width: 189px;
+   height: 70px;
+   top: 83%;
+   left: 84%;
+   border-radius: 15px;
+   background-color: #AE94FF;
+   font-family: 'Stencil', cursive;
+   font-size: 35px;
+   transition-duration: 0.4s;
+   cursor: pointer;}
+.b3:hover {
+  background-color: #95D9F5;
+  color: white;}
+.p1{
+   position: absolute;
+   width: 300px;
+   height: 70px;
+   top: 25%;
+   left: 20%;
+   border-radius: 15px;
+   background-color: #144C71;
+   font-family: 'Stencil';
+   font-size: 40px;}
+.p1:hover {
+  background-color: #9F81F7;
+  color: white;}
+.p2{
+   position: absolute;
+   width: 300px;
+   height: 70px;
+   top: 50%;
+   left: 20%;
+   border-radius: 15px;
+   background-color: #144C71;
+   font-family: 'Stencil';
+   font-size: 40px;}
+.p2:hover {
+  background-color: #9F81F7;
+  color: white;}
+.p3{
+   position: absolute;
+   width: 300px;
+   height: 70px;
+   top: 25%;
+   left: 60%;
+   border-radius: 15px;
+   background-color: #144C71;
+   font-family: 'Stencil';
+   font-size: 40px;}
+.p3:hover {
+  background-color: #9F81F7;
+  color: white;}
+.p4{
+   position: absolute;
+   width: 300px;
+   height: 70px;
+   top: 50%;
+   left: 60%;
+   border-radius: 15px;
+   background-color: #144C71;
+   font-family: 'Stencil';
+   font-size: 40px;}
+.p4:hover {
+  background-color: #9F81F7;
+  color: white;}
+.b4{
+   position: absolute;
+   width: 195px;
+   height: 70px;
+   top: 83%;
+   left: 69%;
+   border-radius: 15px;
+   background-color: #AE94FF;
+   font-family: 'Stencil', cursive;
+   font-size: 35px;
+   transition-duration: 0.4s;
+   cursor: pointer;}
+.b4:hover {
+  background-color: #95D9F5;
+  color: white;
+}
+
